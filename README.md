@@ -3,6 +3,6 @@ A repository dedicated to finding interesting observations in the Food.com datas
 
 
 # Dataset
-We are using the "Food.com Recipes and Interactions" from Food.com on Kaggle that can be found [here](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data?select=PP_users.csv)https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data?select=PP_users.csv). There will also be a script to help download and extract this data.
+We are using the "Food.com Recipes and Interactions" from Food.com on Kaggle that can be found [here](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data?select=PP_users.csv). There will also be a script to help download and extract this data.
 
 
